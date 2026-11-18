@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .env
+dataset/
+detection_history.db
+archive/
+security_analysis.py
